@@ -1,0 +1,6 @@
+{
+  "name": "v2",
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}
